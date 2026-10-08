@@ -52,39 +52,6 @@ Custom Hinged Layout
 <p>This file demonstrates the usage of Apple's ArrangementView API</p>
 </td>
 </tr>
-</table>
-
-
-
-## See Also
-
-Apps and games built for iPhone Duo, where folding the device is the whole point.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<p><a href="https://www.youtube.com/watch?v=02OHXuOGkSg"><img width="380" src="assets/aspectRatioCard.png"></a></p>
-<p><a href="https://www.patreon.com/Codelaby/posts/flexible-aspect-171589892"><b>Flexible Aspect Ratio Cards</b></a></p>
-<p>Showcase horizontal collections of card components with dynamic aspect ratios across three layout approaches.</p>
-</td>
-<td width="50%" valign="top">
-<p><a href="https://youtu.be/VrQ4gnnQta4"><img width="380" src="assets/compatArragement.png"></a></p>
-<p><a href="https://www.patreon.com/Codelaby/posts/compatarrangemen-171474092"><b>CompatArrangementView</b></a></p>
-<p>This code creates a smart, flexible screen layout that automatically rearranges content to fit different screen sizes, orientations, and folding devices (like dual-screen or foldable phones).</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><a href="https://youtu.be/M9QVo5TiOOo"><img width="380" src="assets/customHingedLayout.png"></a></p>
-<p><a href="https://www.patreon.com/Codelaby/posts/custom-hinged-171198337"><b>Custom Hinged Layout</b></a></p>
-<p>The code implements a hinged/dual-screen layout system in SwiftUI designed for foldable devices (such as dual-screen hardware exposing reserved regions via GeometryProxy). It splits collection items dynamically across two display pages (primary and secondary) separated by a hinge/fold division.</p>
-</td>
-<td width="50%" valign="top">
-<p><a href="https://youtu.be/hlxhZ9Q9ayU"><img width="380" src="assets/arragementViewSplit.png"></a></p>
-<p><a href="https://www.patreon.com/Codelaby/posts/about-for-170781766"><b>About ArrangementView</b></a></p>
-<p>This file demonstrates the usage of Apple's ArrangementView API</p>
-</td>
-</tr>
 <tr>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/ub_35MKoohE"><img width="380" src="assets/reservedRegionsInfo.png"></a></p>
@@ -92,6 +59,37 @@ Apps and games built for iPhone Duo, where folding the device is the whole point
 <p>This SwiftUI view (ReservedRegionsInfo) uses a GeometryReader to query and render screen cutouts and physical device boundaries:</p>
 </td>
 <td width="50%" valign="top"></td>
+</tr>
+</table>
+
+## See Also
+
+Apps and games built for iPhone Duo, where folding the device is the whole point.
+
+<table>
+<tr>
+<td width="80"><a href="https://github.com/artemnovichkov/Accorduon"><img width="64" src="https://raw.githubusercontent.com/artemnovichkov/Accorduon/main/.github/images/icon.png"></a></td>
+<td><a href="https://github.com/artemnovichkov/Accorduon"><b>Accorduon</b></a><br>An accordion where the hinge is the bellows. Fold and unfold to play.</td>
+</tr>
+<tr>
+<td width="80"><a href="https://github.com/artemnovichkov/SandValley"><img width="64" src="https://raw.githubusercontent.com/artemnovichkov/SandValley/main/.github/images/icon.png"></a></td>
+<td><a href="https://github.com/artemnovichkov/SandValley"><b>SandValley</b></a><br>Pour sand on the screen and fold the device to make it slide into the valley.</td>
+</tr>
+<tr>
+<td width="80"><a href="https://github.com/artemnovichkov/Duogami"><img width="64" src="https://raw.githubusercontent.com/artemnovichkov/Duogami/main/.github/images/icon.png"></a></td>
+<td><a href="https://github.com/artemnovichkov/Duogami"><b>Duogami</b></a><br>An origami workshop. Fold the phone to fold the paper, one crease at a time.</td>
+</tr>
+<tr>
+<td width="80"><a href="https://github.com/artemnovichkov/ClawKit"><img width="64" src="https://raw.githubusercontent.com/artemnovichkov/ClawKit/main/.github/images/icon.png"></a></td>
+<td><a href="https://github.com/artemnovichkov/ClawKit"><b>ClawKit</b></a><br>A clay claw machine. The cabinet stands above the fold, the controls sit below it.</td>
+</tr>
+<tr>
+<td width="80"><a href="https://github.com/artemnovichkov/DuoBird"><img width="64" src="https://raw.githubusercontent.com/artemnovichkov/DuoBird/main/.github/images/icon.png"></a></td>
+<td><a href="https://github.com/artemnovichkov/DuoBird"><b>DuoBird</b></a><br>Flappy Bird played with the hinge. Snap the device open to flap through the pipes.</td>
+</tr>
+<tr>
+<td width="80"><a href="https://github.com/artemnovichkov/DuoCut"><img width="64" src="https://raw.githubusercontent.com/artemnovichkov/DuoCut/main/.github/images/icon.png"></a></td>
+<td><a href="https://github.com/artemnovichkov/DuoCut"><b>DuoCut</b></a><br>The fold is a blade. Slide shapes under it and cut them in half.</td>
 </tr>
 </table>
 

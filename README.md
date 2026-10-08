@@ -30,17 +30,18 @@ Custom Hinged Layout
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><a href="https://www.patreon.com/Codelaby/posts/flexible-aspect-171589892"><img width="380" src="assets/aspectRatioCard.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=02OHXuOGkSg"><img width="380" src="assets/aspectRatioCard.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/flexible-aspect-171589892"><b>Flexible Aspect Ratio Cards</b></a></p>
 <p>Showcase horizontal collections of card components with dynamic aspect ratios across three layout approaches.</p>
 </td>
 <td width="50%" valign="top">
-<p><a href="https://www.patreon.com/Codelaby/posts/compatarrangemen-171474092"><img width="380" src="assets/compatArragement.png"></a></p>
+<p><a href="https://youtu.be/VrQ4gnnQta4"><img width="380" src="assets/compatArragement.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/compatarrangemen-171474092"><b>CompatArrangementView</b></a></p>
 <p>This code creates a smart, flexible screen layout that automatically rearranges content to fit different screen sizes, orientations, and folding devices (like dual-screen or foldable phones).</p>
 </td>
 </tr>
 </table>
+
 
 
 ## See Also

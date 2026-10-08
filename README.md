@@ -30,29 +30,18 @@ Custom Hinged Layout
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><a href="https://www.patreon.com/Codelaby/posts/flexible-aspect-171589892"><img width="380" src="https://c10.patreonusercontent.com/4/patreon-media/p/post/171589892/78e04f9952b64aab9c81294b3e839196/eyJhIjoxLCJ3Ijo4MjB9/1.png?token-hash=t40SO-CLk4yDDlUhG4nbdXDnWKakGcU11fMSI7XsVs4%3D&token-time=1792713600"></a></p>
+<p><a href="https://www.patreon.com/Codelaby/posts/flexible-aspect-171589892"><img width="380" src="assets/aspectRatioCard.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/flexible-aspect-171589892"><b>Flexible Aspect Ratio Cards</b></a></p>
 <p>Showcase horizontal collections of card components with dynamic aspect ratios across three layout approaches.</p>
 </td>
 <td width="50%" valign="top">
-<p><a href="https://www.patreon.com/Codelaby/posts/compatarrangemen-171474092"><img width="380" src="https://c10.patreonusercontent.com/4/patreon-media/p/post/171474092/c0271b77d0584f6eae996d29be354a58/eyJhIjoxLCJ3Ijo4MjB9/1.png?token-hash=69ICl_8b7mQDOlHxZPpJ0oU7uN2SXVFgAy4tJaSBHy8%3D&token-time=1792713600"></a></p>
-<p><a href="https://www.patreon.com/Codelaby/posts/compatarrangemen-171474092"><b>CompatArrangementView cross-platform</b></a></p>
-<p>This code creates a smart, flexible screen layout that automatically rearranges content to fit different screen sizes, orientations, and folding devices (like dual-screen or foldable phones).</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><a href="https://www.patreon.com/Codelaby/posts/flexible-aspect-171589892"><img width="380" src="https://c10.patreonusercontent.com/4/patreon-media/p/post/171589892/78e04f9952b64aab9c81294b3e839196/eyJhIjoxLCJ3Ijo4MjB9/1.png?token-hash=t40SO-CLk4yDDlUhG4nbdXDnWKakGcU11fMSI7XsVs4%3D&token-time=1792713600"></a></p>
-<p><a href="https://www.patreon.com/Codelaby/posts/flexible-aspect-171589892"><b>Flexible Aspect Ratio Cards</b></a></p>
-<p>Showcase horizontal collections of card components with dynamic aspect ratios across three layout approaches.</p>
-</td>
-<td width="50%" valign="top">
-<p><a href="https://www.patreon.com/Codelaby/posts/compatarrangemen-171474092"><img width="380" src="https://c10.patreonusercontent.com/4/patreon-media/p/post/171474092/c0271b77d0584f6eae996d29be354a58/eyJhIjoxLCJ3Ijo4MjB9/1.png?token-hash=69ICl_8b7mQDOlHxZPpJ0oU7uN2SXVFgAy4tJaSBHy8%3D&token-time=1792713600"></a></p>
-<p><a href="https://www.patreon.com/Codelaby/posts/compatarrangemen-171474092"><b>CompatArrangementView cross-platform</b></a></p>
+<p><a href="https://www.patreon.com/Codelaby/posts/compatarrangemen-171474092"><img width="380" src="assets/compatArragement.png"></a></p>
+<p><a href="https://www.patreon.com/Codelaby/posts/compatarrangemen-171474092"><b>CompatArrangementView</b></a></p>
 <p>This code creates a smart, flexible screen layout that automatically rearranges content to fit different screen sizes, orientations, and folding devices (like dual-screen or foldable phones).</p>
 </td>
 </tr>
 </table>
+
 
 ## See Also
 

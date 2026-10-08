@@ -40,6 +40,18 @@ Custom Hinged Layout
 <p>This code creates a smart, flexible screen layout that automatically rearranges content to fit different screen sizes, orientations, and folding devices (like dual-screen or foldable phones).</p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<p><a href="https://youtu.be/M9QVo5TiOOo"><img width="380" src="assets/customHingedLayout.png"></a></p>
+<p><a href="https://www.patreon.com/Codelaby/posts/custom-hinged-171198337"><b>Custom Hinged Layout</b></a></p>
+<p>The code implements a hinged/dual-screen layout system in SwiftUI designed for foldable devices (such as dual-screen hardware exposing reserved regions via GeometryProxy). It splits collection items dynamically across two display pages (primary and secondary) separated by a hinge/fold division.</p>
+</td>
+<td width="50%" valign="top">
+<p><a href="https://youtu.be/hlxhZ9Q9ayU"><img width="380" src="assets/arragementViewSplit.png"></a></p>
+<p><a href="https://www.patreon.com/Codelaby/posts/about-for-170781766"><b>About ArrangementView</b></a></p>
+<p>This file demonstrates the usage of Apple's ArrangementView API</p>
+</td>
+</tr>
 </table>
 
 

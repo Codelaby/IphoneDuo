@@ -58,7 +58,11 @@ Custom Hinged Layout
 <p><a href="https://www.patreon.com/Codelaby/posts/detecting-on-duo-170278132"><b>Detecting Reserved Regions</b></a></p>
 <p>This SwiftUI view (ReservedRegionsInfo) uses a GeometryReader to query and render screen cutouts and physical device boundaries:</p>
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+<p><a href="https://youtu.be/f_vus4iJGXo"><img width="380" src="assets/EvenColumns.png"></a></p>
+<p><a href="https://www.patreon.com/Codelaby/posts/event-columns-171868372"><b>Event Columns Responsive Grid for iphoneDuo, ipad, iphone</b></a></p>
+<p>This code creates a flexible screen design (layout) that automatically changes how items are displayed based on your device's screen size or fold state (like on foldable phones).</p>
+</td>
 </tr>
 </table>
 

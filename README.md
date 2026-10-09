@@ -30,38 +30,38 @@ Custom Hinged Layout
 <table>
 <tr>
 <td width="50%" valign="top">
+<p><a href="https://youtu.be/f_vus4iJGXo"><img width="380" src="assets/EvenColumns.png"></a></p>
+<p><a href="https://www.patreon.com/Codelaby/posts/event-columns-171868372"><b>Even Columns Responsive Grid for iphoneDuo, ipad, iphone</b></a></p>
+<p>This code creates a flexible screen design (layout) that automatically changes how items are displayed based on your device's screen size or fold state (like on foldable phones).</p>
+</td>
+<td width="50%" valign="top">
 <p><a href="https://www.youtube.com/watch?v=02OHXuOGkSg"><img width="380" src="assets/aspectRatioCard.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/flexible-aspect-171589892"><b>Flexible Aspect Ratio Cards</b></a></p>
 <p>Showcase horizontal collections of card components with dynamic aspect ratios across three layout approaches.</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/VrQ4gnnQta4"><img width="380" src="assets/compatArragement.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/compatarrangemen-171474092"><b>CompatArrangementView</b></a></p>
 <p>This code creates a smart, flexible screen layout that automatically rearranges content to fit different screen sizes, orientations, and folding devices (like dual-screen or foldable phones).</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/M9QVo5TiOOo"><img width="380" src="assets/customHingedLayout.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/custom-hinged-171198337"><b>Custom Hinged Layout</b></a></p>
 <p>The code implements a hinged/dual-screen layout system in SwiftUI designed for foldable devices (such as dual-screen hardware exposing reserved regions via GeometryProxy). It splits collection items dynamically across two display pages (primary and secondary) separated by a hinge/fold division.</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/hlxhZ9Q9ayU"><img width="380" src="assets/arragementViewSplit.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/about-for-170781766"><b>About ArrangementView</b></a></p>
 <p>This file demonstrates the usage of Apple's ArrangementView API</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/ub_35MKoohE"><img width="380" src="assets/reservedRegionsInfo.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/detecting-on-duo-170278132"><b>Detecting Reserved Regions</b></a></p>
 <p>This SwiftUI view (ReservedRegionsInfo) uses a GeometryReader to query and render screen cutouts and physical device boundaries:</p>
-</td>
-<td width="50%" valign="top">
-<p><a href="https://youtu.be/f_vus4iJGXo"><img width="380" src="assets/EvenColumns.png"></a></p>
-<p><a href="https://www.patreon.com/Codelaby/posts/event-columns-171868372"><b>Event Columns Responsive Grid for iphoneDuo, ipad, iphone</b></a></p>
-<p>This code creates a flexible screen design (layout) that automatically changes how items are displayed based on your device's screen size or fold state (like on foldable phones).</p>
 </td>
 </tr>
 </table>
@@ -108,3 +108,6 @@ Apps and games built for iPhone Duo, where folding the device is the whole point
   - [Strike a pose with adaptive layouts on iPhone Duo](https://developer.apple.com/videos/play/tech-talks/111463/)
   - [Leverage multiple displays and scenes on iPhone Duo](https://developer.apple.com/videos/play/tech-talks/111464/)
   - [Design for iPhone Duo](https://developer.apple.com/videos/play/tech-talks/111466/)
+ 
+## More info
+[Repository based for this iPhoneDuo Adaptative](https://github.com/hoangchungk53qx1/iPhone-Duo-Adaptive/tree/main)

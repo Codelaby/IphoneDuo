@@ -70,9 +70,14 @@ Custom Hinged Layout
 <p><a href="https://www.patreon.com/Codelaby/posts/detecting-on-duo-170278132"><b>Detecting Reserved Regions</b></a></p>
 <p>This SwiftUI view (ReservedRegionsInfo) uses a GeometryReader to query and render screen cutouts and physical device boundaries:</p>
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+<p><a href="https://youtu.be/cHCu9TRDkBE"><img width="380" src="assets/DevicePoseDetector.png"></a></p>
+<p><a href="https://www.patreon.com/Codelaby/posts/swiftui-device-172521489"><b>SwiftUI Device Pose Detector for Foldables, iPad & iPhone</b></a></p>
+<p>This code figures out how you are holding or using your device (whether it's a folding phone, an iPad, or a regular iPhone) and updates the screen layout automatically.</p>
+</td>
 </tr>
 </table>
+
 
 ## See Also
 

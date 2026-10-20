@@ -31,52 +31,61 @@ Custom Hinged Layout
 <tr>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/pWo1jNaxYLc"><img width="380" src="assets/welcomeScreenDuo.png"></a></p>
-<p><a href="https://www.patreon.com/Codelaby/posts/dual-screen-in-172435098"><b>Welcome Screen Layout</b></a></p>
-<p>WelcomeScreenView is a dynamic SwiftUI welcome layout designed for dual-screen and foldable interfaces (such as iPhone Duo).</p>
+<p><a href="https://www.patreon.com/Codelaby/posts/dual-screen-in-172435098"><b>Adaptive Welcome Screen</b></a></p>
+<p>An adaptive welcome screen that adjusts its layout to the available space and device configuration.</p>
 </td>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/f_vus4iJGXo"><img width="380" src="assets/EvenColumns.png"></a></p>
-<p><a href="https://www.patreon.com/Codelaby/posts/event-columns-171868372"><b>Even Columns Responsive Grid for iphoneDuo, ipad, iphone</b></a></p>
-<p>This code creates a flexible screen design (layout) that automatically changes how items are displayed based on your device's screen size or fold state (like on foldable phones).</p>
+<p><a href="https://www.patreon.com/Codelaby/posts/event-columns-171868372"><b>Adaptive Column Grid</b></a></p>
+<p>A flexible grid that adjusts its column count and spacing across iPhone, iPad, and dual-screen layouts.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <p><a href="https://www.youtube.com/watch?v=02OHXuOGkSg"><img width="380" src="assets/aspectRatioCard.png"></a></p>
-<p><a href="https://www.patreon.com/Codelaby/posts/flexible-aspect-171589892"><b>Flexible Aspect Ratio Cards</b></a></p>
-<p>Showcase horizontal collections of card components with dynamic aspect ratios across three layout approaches.</p>
+<p><a href="https://www.patreon.com/Codelaby/posts/flexible-aspect-171589892"><b>Dynamic Aspect-Ratio Cards</b></a></p>
+<p>Explores three approaches to arranging horizontal card collections with flexible aspect ratios.</p>
 </td>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/VrQ4gnnQta4"><img width="380" src="assets/compatArragement.png"></a></p>
-<p><a href="https://www.patreon.com/Codelaby/posts/compatarrangemen-171474092"><b>CompatArrangementView</b></a></p>
-<p>This code creates a smart, flexible screen layout that automatically rearranges content to fit different screen sizes, orientations, and folding devices (like dual-screen or foldable phones).</p>
+<p><a href="https://www.patreon.com/Codelaby/posts/compatarrangemen-171474092"><b>Adaptive Arrangement</b></a></p>
+<p>Demonstrates how to adapt content arrangement to changing screen sizes, orientations, and device configurations.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/M9QVo5TiOOo"><img width="380" src="assets/customHingedLayout.png"></a></p>
-<p><a href="https://www.patreon.com/Codelaby/posts/custom-hinged-171198337"><b>Custom Hinged Layout</b></a></p>
-<p>The code implements a hinged/dual-screen layout system in SwiftUI designed for foldable devices (such as dual-screen hardware exposing reserved regions via GeometryProxy). It splits collection items dynamically across two display pages (primary and secondary) separated by a hinge/fold division.</p>
+<p><a href="https://www.patreon.com/Codelaby/posts/custom-hinged-171198337"><b>Hinge-Aware Layout</b></a></p>
+<p>Splits collection content across two display regions using GeometryProxy reserved regions to account for the device hinge.</p>
 </td>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/hlxhZ9Q9ayU"><img width="380" src="assets/arragementViewSplit.png"></a></p>
-<p><a href="https://www.patreon.com/Codelaby/posts/about-for-170781766"><b>About ArrangementView</b></a></p>
-<p>This file demonstrates the usage of Apple's ArrangementView API</p>
+<p><a href="https://www.patreon.com/Codelaby/posts/about-for-170781766"><b>Exploring ArrangementView</b></a></p>
+<p>Explores Apple's ArrangementView API and its role in building layouts that adapt to different display configurations.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/ub_35MKoohE"><img width="380" src="assets/reservedRegionsInfo.png"></a></p>
-<p><a href="https://www.patreon.com/Codelaby/posts/detecting-on-duo-170278132"><b>Detecting Reserved Regions</b></a></p>
-<p>This SwiftUI view (ReservedRegionsInfo) uses a GeometryReader to query and render screen cutouts and physical device boundaries:</p>
+<p><a href="https://www.patreon.com/Codelaby/posts/detecting-on-duo-170278132"><b>Inspecting Reserved Regions</b></a></p>
+<p>Visualizes device boundaries, cutouts, and reserved display regions using GeometryProxy.</p>
 </td>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/cHCu9TRDkBE"><img width="380" src="assets/DevicePoseDetector.png"></a></p>
-<p><a href="https://www.patreon.com/Codelaby/posts/swiftui-device-172521489"><b>SwiftUI Device Pose Detector for Foldables, iPad & iPhone</b></a></p>
-<p>This code figures out how you are holding or using your device (whether it's a folding phone, an iPad, or a regular iPhone) and updates the screen layout automatically.</p>
+<p><a href="https://www.patreon.com/Codelaby/posts/swiftui-device-172521489"><b>Device Pose Detection</b></a></p>
+<p>Detects device posture and orientation to help layouts respond to different usage configurations across supported devices.</p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<p><a href="https://youtu.be/Y3jZYfE4DWo"><img width="380" src="assets/LargestCornerDetector.png"></a></p>
+<p><a href="https://www.patreon.com/Codelaby/posts/largest-corner-172876051"><b>Largest Corner Detector</b></a></p>
+<p>Analyzes container corner insets and geometry to detect the largest corner region, adapting perimetral layouts for foldable or dual-screen devices.</p>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
+
 
 
 ## See Also

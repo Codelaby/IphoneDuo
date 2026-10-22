@@ -30,63 +30,71 @@ Custom Hinged Layout
 <table>
 <tr>
 <td width="50%" valign="top">
+<p><a href="https://youtu.be/jzy1F79sUsA"><img width="380" src="assets/cardboardMasonry.png"></a></p>
+<p><a href="https://www.patreon.com/Codelaby/posts/adaptive-masonry-173093839"><b>Adaptive Masonry Layout</b></a></p>
+<p>Responsive masonry grid layout that dynamically adjusts its columns, spacing, and fold-aware gaps.</p>
+</td>
+<td width="50%" valign="top">
 <p><a href="https://youtu.be/xrk41YqegAY"><img width="380" src="assets/ArticleCoverViewIphoneDuo.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/adaptive-article-172973880"><b>Adaptive Article Layout in SwiftUI for Foldable Devices</b></a></p>
 <p>A flexible generic layout container accepting three separate content builders—Cover, Primary, and Secondary—with customizable spacing, axis orientation, and split ratios.</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/pWo1jNaxYLc"><img width="380" src="assets/welcomeScreenDuo.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/dual-screen-in-172435098"><b>Adaptive Welcome Screen</b></a></p>
 <p>An adaptive welcome screen that adjusts its layout to the available space and device configuration.</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/f_vus4iJGXo"><img width="380" src="assets/EvenColumns.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/event-columns-171868372"><b>Adaptive Column Grid</b></a></p>
 <p>A flexible grid that adjusts its column count and spacing across iPhone, iPad, and dual-screen layouts.</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <p><a href="https://www.youtube.com/watch?v=02OHXuOGkSg"><img width="380" src="assets/aspectRatioCard.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/flexible-aspect-171589892"><b>Dynamic Aspect-Ratio Cards</b></a></p>
 <p>Explores three approaches to arranging horizontal card collections with flexible aspect ratios.</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/VrQ4gnnQta4"><img width="380" src="assets/compatArragement.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/compatarrangemen-171474092"><b>Adaptive Arrangement</b></a></p>
 <p>Demonstrates how to adapt content arrangement to changing screen sizes, orientations, and device configurations.</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/M9QVo5TiOOo"><img width="380" src="assets/customHingedLayout.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/custom-hinged-171198337"><b>Hinge-Aware Layout</b></a></p>
 <p>Splits collection content across two display regions using GeometryProxy reserved regions to account for the device hinge.</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/hlxhZ9Q9ayU"><img width="380" src="assets/arragementViewSplit.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/about-for-170781766"><b>Exploring ArrangementView</b></a></p>
 <p>Explores Apple's ArrangementView API and its role in building layouts that adapt to different display configurations.</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/ub_35MKoohE"><img width="380" src="assets/reservedRegionsInfo.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/detecting-on-duo-170278132"><b>Inspecting Reserved Regions</b></a></p>
 <p>Visualizes device boundaries, cutouts, and reserved display regions using GeometryProxy.</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/cHCu9TRDkBE"><img width="380" src="assets/DevicePoseDetector.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/swiftui-device-172521489"><b>Device Pose Detection</b></a></p>
 <p>Detects device posture and orientation to help layouts respond to different usage configurations across supported devices.</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/Y3jZYfE4DWo"><img width="380" src="assets/LargestCornerDetector.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/largest-corner-172876051"><b>Largest Corner Detector</b></a></p>
 <p>Analyzes container corner insets and geometry to detect the largest corner region, adapting perimetral layouts for foldable or dual-screen devices.</p>
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 

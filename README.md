@@ -94,10 +94,13 @@ Custom Hinged Layout
 <p><a href="https://www.patreon.com/Codelaby/posts/largest-corner-172876051"><b>Largest Corner Detector</b></a></p>
 <p>Analyzes container corner insets and geometry to detect the largest corner region, adapting perimetral layouts for foldable or dual-screen devices.</p>
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+<p><a href="https://youtu.be/--Nf2KPo65Y"><img width="380" src="assets/NavSplitView3Columns.png"></a></p>
+<p><a href="https://www.patreon.com/Codelaby/posts/3-column-on-duo-173258301"><b>3-Column NavigationSplitView</b></a></p>
+<p>Combines a three-column NavigationSplitView with a collapsible inspector panel to manage multi-pane navigation and contextual data across devices.</p>
+</td>
 </tr>
 </table>
-
 
 
 ## See Also

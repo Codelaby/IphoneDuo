@@ -100,6 +100,14 @@ Custom Hinged Layout
 <p>Combines a three-column NavigationSplitView with a collapsible inspector panel to manage multi-pane navigation and contextual data across devices.</p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<p><a href="https://youtu.be/4iJCYOyQeZE"><img width="380" src="assets/CustomRatioArragementView.png"></a></p>
+<p><a href="https://www.patreon.com/Codelaby/posts/custom-and-ratio-173430277"><b>Custom ArrangementView and Ratio Control</b></a></p>
+<p>Combines custom ArrangementViewStyle layouts with dynamic ratio control to adapt split views and content density across devices.</p>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 

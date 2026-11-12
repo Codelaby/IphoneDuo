@@ -30,8 +30,8 @@ Custom Hinged Layout
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><a href="https://youtu.be/oakAXV1oWWQ"><img width="380" src="assets/LyricsLayout.png"></a></p>
-<p><a href="https://www.patreon.com/Codelaby/posts/lyrics-music-for-174727206"><b>Lyrics Layout</b></a></p>
+<p><a href="https://swiftuisnippets.wordpress.com/2026/11/08/layout-lyrics-for-iphoneduo/"><img width="380" src="assets/LyricsLayout.png"></a></p>
+<p><a href="https://swiftuisnippets.wordpress.com/2026/11/08/layout-lyrics-for-iphoneduo/"><b>Lyrics Layout</b></a></p>
 <p>Adaptive music lyrics layout for foldable and dual-screen devices that dynamically switches between overlay and split arrangements based on orientation and size classes.</p>
 <p><a href="https://youtu.be/oakAXV1oWWQ">▶ Ver vídeo demostrativo</a></p>
 </td>
@@ -89,7 +89,7 @@ Custom Hinged Layout
 <p><a href="https://swiftuisnippets.wordpress.com/2026/10/02/beyond-arrangementview-a-custom-hinged-layout-that-actually-works-inside-lists/"><img width="380" src="assets/customHingedLayout.png"></a></p>
 <p><a href="https://swiftuisnippets.wordpress.com/2026/10/02/beyond-arrangementview-a-custom-hinged-layout-that-actually-works-inside-lists/"><b>Hinge-Aware Layout</b></a></p>
 <p>Splits collection content across two display regions using GeometryProxy reserved regions to account for the device hinge.</p>
-<p><a href="https://youtu.be/M9QVo5TiOOo">▶ Ver vídeo demostrativo</a></p>
+<p><a href="https://youtu.be/6ZrFbCwhXPA">▶ Ver vídeo demostrativo</a></p>
 </td>
 <td width="50%" valign="top">
 <p><a href="https://swiftuisnippets.wordpress.com/2026/10/27/building-a-foldable-aware-swiftui-view-the-compathinge-detector/"><img width="380" src="assets/LotusFlowerHingeReaction.png"></a></p>
@@ -133,7 +133,12 @@ Custom Hinged Layout
 <p>Combines a three-column NavigationSplitView with a collapsible inspector panel to manage multi-pane navigation and contextual data across devices.</p>
 <p><a href="https://youtu.be/--Nf2KPo65Y">▶ Ver vídeo demostrativo</a></p>
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+<p><a href="https://codelaby.substack.com/p/matching-safe-container-margins-in?r=89psvp"><img width="380" src="assets/CustomSafeContainerMargins.png"></a></p>
+<p><a href="https://codelaby.substack.com/p/matching-safe-container-margins-in?r=89psvp"><b>Matching Safe Container Margins in SwiftUI</b></a></p>
+<p>A custom view modifier and container extension that dynamically matches and harmonizes container margins with safe area insets to prevent double-padding.</p>
+<p><a href="https://youtu.be/mXrHMygZ-yM">▶ Ver vídeo demostrativo</a></p>
+</td>
 </tr>
 </table>
 

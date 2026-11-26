@@ -2,8 +2,8 @@
   <img src="assets/iphoneduoIcon.png" width="128" alt="iPhone Duo by Examples icon">
 </p>
 
-# IphoneDuo Examples
-SwiftUI examples for the iPhone Duo (foldable iPhone) APIs in iOS 27.1: hinge, reserved regions, ArrangementView, vertical toolbar
+# Designing for iPhone Duo — Code Examples
+Companion repository with SwiftUI code examples and interactive demos for the guide [**Designing for iPhone Duo: Adaptive Interfaces with SwiftUI**](https://codelaby.substack.com/p/designing-for-iphone-duo) by Codelaby.
 
 <p align="center">
   <img src="https://img.shields.io/badge/iOS-27.1+-blue.svg" alt="iOS 27.1+">
@@ -11,6 +11,8 @@ SwiftUI examples for the iPhone Duo (foldable iPhone) APIs in iOS 27.1: hinge, r
   <img src="https://img.shields.io/badge/Swift-6-orange.svg" alt="Swift 6">
   <img src="https://img.shields.io/badge/UI-SwiftUI-purple.svg" alt="SwiftUI">
 </p>
+
+> A practical guide to building adaptive, hinge-aware, and posture-responsive applications with SwiftUI.
 
 ## Technology
 
@@ -25,7 +27,6 @@ This project is built with native Apple technologies for iPhone Duo:
 
 **Requirements:** Xcode 27.1 or later, and the iPhone Duo simulator (iOS 27.1) or an iPhone Duo.
 
-Custom Hinged Layout
 ## Examples
 <table>
 <tr>

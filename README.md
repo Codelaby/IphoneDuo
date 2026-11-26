@@ -31,66 +31,80 @@ This project is built with native Apple technologies for iPhone Duo:
 <table>
 <tr>
 <td width="50%" valign="top">
+<p><a href="https://youtu.be/rI-BNnp1Ejw"><img width="380" src="assets/photoGridLayout.png"></a></p>
+<p><a href="https://www.patreon.com/Codelaby/posts/responsive-album-176353537"><b>Adaptive Photo Grid</b></a></p>
+<p>An adaptive photo album layout in SwiftUI built with ArrangementView that pairs a featured album hero view with a scrollable photo grid across split and overlay arrangements.</p>
+<p><a href="https://youtu.be/rI-BNnp1Ejw">▶ Ver vídeo demostrativo</a></p>
+</td>
+<td width="50%" valign="top">
 <p><a href="https://swiftuisnippets.wordpress.com/2026/11/08/layout-lyrics-for-iphoneduo/"><img width="380" src="assets/LyricsLayout.png"></a></p>
 <p><a href="https://swiftuisnippets.wordpress.com/2026/11/08/layout-lyrics-for-iphoneduo/"><b>Lyrics Layout</b></a></p>
 <p>Adaptive music lyrics layout for foldable and dual-screen devices that dynamically switches between overlay and split arrangements based on orientation and size classes.</p>
 <p><a href="https://youtu.be/oakAXV1oWWQ">▶ Ver vídeo demostrativo</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/4iJCYOyQeZE"><img width="380" src="assets/CustomRatioArragementView.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/custom-and-ratio-173430277"><b>Custom ArrangementView and Ratio Control</b></a></p>
 <p>Combines custom ArrangementViewStyle layouts with dynamic ratio control to adapt split views and content density across devices.</p>
 <p><a href="https://youtu.be/4iJCYOyQeZE">▶ Ver vídeo demostrativo</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/jzy1F79sUsA"><img width="380" src="assets/cardboardMasonry.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/adaptive-masonry-173093839"><b>Adaptive Masonry Layout</b></a></p>
 <p>Responsive masonry grid layout that dynamically adjusts its columns, spacing, and fold-aware gaps.</p>
 <p><a href="https://youtu.be/jzy1F79sUsA">▶ Ver vídeo demostrativo</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/xrk41YqegAY"><img width="380" src="assets/ArticleCoverViewIphoneDuo.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/adaptive-article-172973880"><b>Adaptive Article Layout in SwiftUI for Foldable Devices</b></a></p>
 <p>A flexible generic layout container accepting three separate content builders—Cover, Primary, and Secondary—with customizable spacing, axis orientation, and split ratios.</p>
 <p><a href="https://youtu.be/xrk41YqegAY">▶ Ver vídeo demostrativo</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/pWo1jNaxYLc"><img width="380" src="assets/welcomeScreenDuo.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/dual-screen-in-172435098"><b>Adaptive Welcome Screen</b></a></p>
 <p>An adaptive welcome screen that adjusts its layout to the available space and device configuration.</p>
 <p><a href="https://youtu.be/pWo1jNaxYLc">▶ Ver vídeo demostrativo</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/f_vus4iJGXo"><img width="380" src="assets/EvenColumns.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/event-columns-171868372"><b>Adaptive Column Grid</b></a></p>
 <p>A flexible grid that adjusts its column count and spacing across iPhone, iPad, and dual-screen layouts.</p>
 <p><a href="https://youtu.be/f_vus4iJGXo">▶ Ver vídeo demostrativo</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <p><a href="https://www.youtube.com/watch?v=02OHXuOGkSg"><img width="380" src="assets/aspectRatioCard.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/flexible-aspect-171589892"><b>Dynamic Aspect-Ratio Cards</b></a></p>
 <p>Explores three approaches to arranging horizontal card collections with flexible aspect ratios.</p>
 <p><a href="https://www.youtube.com/watch?v=02OHXuOGkSg">▶ Ver vídeo demostrativo</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <p><a href="https://youtu.be/VrQ4gnnQta4"><img width="380" src="assets/compatArragement.png"></a></p>
 <p><a href="https://www.patreon.com/Codelaby/posts/compatarrangemen-171474092"><b>Adaptive Arrangement</b></a></p>
 <p>Demonstrates how to adapt content arrangement to changing screen sizes, orientations, and device configurations.</p>
 <p><a href="https://youtu.be/VrQ4gnnQta4">▶ Ver vídeo demostrativo</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <p><a href="https://swiftuisnippets.wordpress.com/2026/10/02/beyond-arrangementview-a-custom-hinged-layout-that-actually-works-inside-lists/"><img width="380" src="assets/customHingedLayout.png"></a></p>
 <p><a href="https://swiftuisnippets.wordpress.com/2026/10/02/beyond-arrangementview-a-custom-hinged-layout-that-actually-works-inside-lists/"><b>Hinge-Aware Layout</b></a></p>
 <p>Splits collection content across two display regions using GeometryProxy reserved regions to account for the device hinge.</p>
 <p><a href="https://youtu.be/6ZrFbCwhXPA">▶ Ver vídeo demostrativo</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><a href="https://youtu.be/T4uxWwIwOCk"><img width="380" src="assets/CustomArragementViewStyle.png"></a></p>
+<p><a href="https://www.patreon.com/Codelaby/posts/custom-176438655"><b>Custom Arrangement View Style</b></a></p>
+<p>Implements a custom ArrangementViewStyle that switches between a dedicated compact view, a stacked vertical split with a 0.4 secondary ratio in portrait, and a .split arrangement in landscape based on size classes and container aspect ratio.</p>
+<p><a href="https://youtu.be/T4uxWwIwOCk">▶ Ver vídeo demostrativo</a></p>
 </td>
 <td width="50%" valign="top">
 <p><a href="https://swiftuisnippets.wordpress.com/2026/10/27/building-a-foldable-aware-swiftui-view-the-compathinge-detector/"><img width="380" src="assets/LotusFlowerHingeReaction.png"></a></p>
@@ -136,44 +150,13 @@ This project is built with native Apple technologies for iPhone Duo:
 </td>
 <td width="50%" valign="top">
 <p><a href="https://codelaby.substack.com/p/matching-safe-container-margins-in?r=89psvp"><img width="380" src="assets/CustomSafeContainerMargins.png"></a></p>
-<p><a href="https://codelaby.substack.com/p/matching-safe-container-margins-in?r=89psvp"><b>Matching Safe Container Margins in SwiftUI</b></a></p>
+<p><a href="https://codelaby.substack.com/p/matching-safe-container-margins-in?r=89psvp"><b>Matching Safe Container Margins</b></a></p>
 <p>A custom view modifier and container extension that dynamically matches and harmonizes container margins with safe area insets to prevent double-padding.</p>
 <p><a href="https://youtu.be/mXrHMygZ-yM">▶ Ver vídeo demostrativo</a></p>
 </td>
 </tr>
 </table>
 
-
-## See Also
-
-Apps and games built for iPhone Duo, where folding the device is the whole point.
-
-<table>
-<tr>
-<td width="80"><a href="https://github.com/artemnovichkov/Accorduon"><img width="64" src="https://raw.githubusercontent.com/artemnovichkov/Accorduon/main/.github/images/icon.png"></a></td>
-<td><a href="https://github.com/artemnovichkov/Accorduon"><b>Accorduon</b></a><br>An accordion where the hinge is the bellows. Fold and unfold to play.</td>
-</tr>
-<tr>
-<td width="80"><a href="https://github.com/artemnovichkov/SandValley"><img width="64" src="https://raw.githubusercontent.com/artemnovichkov/SandValley/main/.github/images/icon.png"></a></td>
-<td><a href="https://github.com/artemnovichkov/SandValley"><b>SandValley</b></a><br>Pour sand on the screen and fold the device to make it slide into the valley.</td>
-</tr>
-<tr>
-<td width="80"><a href="https://github.com/artemnovichkov/Duogami"><img width="64" src="https://raw.githubusercontent.com/artemnovichkov/Duogami/main/.github/images/icon.png"></a></td>
-<td><a href="https://github.com/artemnovichkov/Duogami"><b>Duogami</b></a><br>An origami workshop. Fold the phone to fold the paper, one crease at a time.</td>
-</tr>
-<tr>
-<td width="80"><a href="https://github.com/artemnovichkov/ClawKit"><img width="64" src="https://raw.githubusercontent.com/artemnovichkov/ClawKit/main/.github/images/icon.png"></a></td>
-<td><a href="https://github.com/artemnovichkov/ClawKit"><b>ClawKit</b></a><br>A clay claw machine. The cabinet stands above the fold, the controls sit below it.</td>
-</tr>
-<tr>
-<td width="80"><a href="https://github.com/artemnovichkov/DuoBird"><img width="64" src="https://raw.githubusercontent.com/artemnovichkov/DuoBird/main/.github/images/icon.png"></a></td>
-<td><a href="https://github.com/artemnovichkov/DuoBird"><b>DuoBird</b></a><br>Flappy Bird played with the hinge. Snap the device open to flap through the pipes.</td>
-</tr>
-<tr>
-<td width="80"><a href="https://github.com/artemnovichkov/DuoCut"><img width="64" src="https://raw.githubusercontent.com/artemnovichkov/DuoCut/main/.github/images/icon.png"></a></td>
-<td><a href="https://github.com/artemnovichkov/DuoCut"><b>DuoCut</b></a><br>The fold is a blade. Slide shapes under it and cut them in half.</td>
-</tr>
-</table>
 
 ## Resources
 
